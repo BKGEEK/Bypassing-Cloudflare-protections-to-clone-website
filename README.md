@@ -7,3 +7,7 @@
 ## 运行
 
 curl -s "https://raw.githubusercontent.com/BKGEEK/Bypassing-Cloudflare-protections-to-clone-website/master/clone%20website.py" | python3 - URL
+
+或
+
+wget -q -O - "https://raw.githubusercontent.com/BKGEEK/Bypassing-Cloudflare-protections-to-clone-website/master/clone%20website.py" | python3 - URL
