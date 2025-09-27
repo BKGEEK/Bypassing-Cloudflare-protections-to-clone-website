@@ -4,6 +4,6 @@
 
 # 使用方法：
 
-## 下载后运行
+## 运行
 
-python3 "clone website.py"[URL] （批量扒站就填写多个URL，空格隔开）
+curl -s "https://raw.githubusercontent.com/BKGEEK/Bypassing-Cloudflare-protections-to-clone-website/master/clone%20website.py" | python3 - URL
