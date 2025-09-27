@@ -15,3 +15,7 @@ wget -q -O - "https://raw.githubusercontent.com/BKGEEK/Bypassing-Cloudflare-prot
 # 参数：
 
 批量扒站URL参数可以填写多个并使用空格隔开
+
+# 使用要求：
+
+你必须提前安装FlareSolverr否则无法使用
